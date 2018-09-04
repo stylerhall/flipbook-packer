@@ -1,4 +1,4 @@
-# flipbookPacker
+# Flipbook Packer
 Python tool for VFX artists to aide in different methods of texture atlas'ing and channel packing.
 
 Current methods are your default full RGB(A) flipbook tiled for VFX playback. There are curently 2 other methods outlined in the script. Super Packing and Stagger Packing.
