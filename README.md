@@ -1,5 +1,5 @@
-# Flipbook Packer
-=================
+Flipbook Packer
+===
 
 Python tool for VFX artists to aid in different methods of texture flipbook atlasing.
 
